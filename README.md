@@ -2,8 +2,8 @@
 # Ethics and critical thinking around the ethics of digital technology
 
 ## Definition
-Ethics - moral principles that govern a person's behaviour or the conducting of an activity. 
-[Cyberethics](https://en.wikipedia.org/wiki/Cyberethics) is the philosophic study of ethics pertaining to computers, encompassing user behavior and what computers are programmed to do, and how this affects individuals and society
+- Ethics - moral principles that govern a person's behaviour or the conducting of an activity. 
+- [Cyberethics](https://en.wikipedia.org/wiki/Cyberethics) is the philosophic study of ethics pertaining to computers, encompassing user behavior and what computers are programmed to do, and how this affects individuals and society
 
 ## Questions: 
 - Complicated rights and wrongs of design and technology – and the moral questions you should ask yourself as a designer.

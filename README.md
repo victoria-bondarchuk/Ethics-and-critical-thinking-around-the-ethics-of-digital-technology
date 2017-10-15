@@ -15,6 +15,7 @@
 - [Should Google Tell You If You Have Cancer?](https://www.fastcodesign.com/3058943/the-ux-of-ethics-should-google-tell-you-if-you-have-cancer)
 - Ethical aspects of research
 - The Ethics of Doing Ethics
+- Minority community rights
 
 
 ## Quotations 

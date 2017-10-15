@@ -1,5 +1,5 @@
 
-# Ethics and critical thinking around the ethics of digital technology
+# Ethics and critical thinking around design and digital technology
 
 ## Definition
 - Ethics - moral principles that govern a person's behaviour or the conducting of an activity. 

@@ -6,16 +6,17 @@
 - [Cyberethics](https://en.wikipedia.org/wiki/Cyberethics) is the philosophic study of ethics pertaining to computers, encompassing user behavior and what computers are programmed to do, and how this affects individuals and society
 
 ## Questions: 
-- Complicated rights and wrongs of design and technology – and the moral questions you should ask yourself as a designer.
+- Privacy. “I’ve Got Nothing to Hide” and other misunderstandings of privacy 
+- Security. Increase in security can have direct impact on the user experience, at the same time a solution that is "easy"  to use can bring serious security risks. How to find a balance and raise security awareness among users?
 - Dark patterns that trick unsuspecting users to mass social experiments conducted by internet giants,
 - Persuasive Design
+- Minority community rights
 - Marketing modes of manipulation (“9 people are watching now”)
-- Security
-- Privacy
 - [Should Google Tell You If You Have Cancer?](https://www.fastcodesign.com/3058943/the-ux-of-ethics-should-google-tell-you-if-you-have-cancer)
 - Ethical aspects of research
-- The Ethics of Doing Ethics
-- Minority community rights
+- The ethics of doing ethics
+- AI and impact AI augmented systems may have on the future of work and the potential for bringing mass unemployment.
+- "De-skilling" and  the possibility that automation can create a situation where skilled professionals can be replaced with less-skilled people.
 
 
 ## Quotations 
